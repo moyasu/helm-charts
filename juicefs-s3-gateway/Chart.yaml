@@ -1,0 +1,17 @@
+apiVersion: v2
+appVersion: 1.6.0
+description: A Helm chart for JuiceFS S3 Gateway
+home: https://github.com/juicedata/juicefs
+icon: https://s.juicefs.com/static/jfs/logo.svg
+keywords:
+- juicefs
+- s3 gateway
+maintainers:
+- email: team@juicedata.io
+  name: Juicedata Inc.
+  url: https://juicefs.com
+name: juicefs-s3-gateway
+sources:
+- https://github.com/juicedata/juicefs
+type: application
+version: 0.11.2
